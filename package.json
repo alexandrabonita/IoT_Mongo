@@ -4,7 +4,8 @@
   "description": "Proyecto Final de Conexion IoT a Mongo",
   "main": "server.js",
   "scripts": {
-    "test": "IoT MongoDB"
+    "test": "IoT MongoDB",
+    "start": "node server.js"
   },
   "keywords": [
     "Iot",
